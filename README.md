@@ -14,4 +14,8 @@ Se encontrarán dos scrpts, el que dice MATLABMODELCONROL es el script que tiene
 INTEGRACION MODEL
 Es la integración de MATLAB a GMAT.
 
-NOTA: somo el grupo que trabajó conjuntamente con el grupo de Brayan, mismos grupos que unieron los códigos para hacer la integración de Matlab con Gmat.
+MODELO CAD CÁMARA CUBESAT
+Adicionalmente, se anexa el modelo 3D de la cámara realizada para el objetivo del departamento elegido.
+
+NOTA 1: Los archivos se encuentran en carpetas comprimidas (.zip), por lo que deben ser descargados entrando a una cada uno de ellos y dando click en "descargar" (al lado donde dice "raw").
+NOTA 2: somo el grupo que trabajó conjuntamente con el grupo de Brayan, mismos grupos que unieron los códigos para hacer la integración de Matlab con Gmat.
